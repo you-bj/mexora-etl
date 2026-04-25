@@ -22,8 +22,8 @@ DB_CONFIG = {
     'host': os.getenv('MEXORA_DB_HOST', 'localhost'),
     'port': os.getenv('MEXORA_DB_PORT', '5432'),
     'database': os.getenv('MEXORA_DB_NAME', 'postgres'),
-    'user': os.getenv('MEXORA_DB_USER', 'postgres'),
-    'password': os.getenv('MEXORA_DB_PASSWORD', 'yousra123'),
+    'user': os.getenv('MEXORA_DB_USER', 'YOUR USERNAME'),
+    'password': os.getenv('MEXORA_DB_PASSWORD', 'YOUR PASSWORD'),
 }
 
 def get_connection_string():
