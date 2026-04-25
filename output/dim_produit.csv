@@ -1,0 +1,58 @@
+id_produit_sk,id_produit_nk,nom_produit,categorie,sous_categorie,marque,fournisseur,prix_standard,origine_pays,date_debut,date_fin,est_actif
+1,P001,iPhone 16 Pro 256Go,Electronique,Smartphones,Apple,Xiaomi Distribution,4878.48,France,2026-04-24,9999-12-31,True
+2,P002,Samsung Galaxy S24 Ultra,Electronique,Smartphones,Apple,Apple MENA,4387.53,Japon,2026-04-24,9999-12-31,False
+3,P003,Xiaomi 14 Pro,Electronique,Smartphones,Lenovo,Tech Import SARL,11318.27,Chine,2026-04-24,9999-12-31,False
+4,P004,iPhone 15 128Go,Electronique,Smartphones,Xiaomi,Samsung Maroc,18198.88,Chine,2026-04-24,9999-12-31,True
+5,P005,Samsung Galaxy A55,Electronique,Smartphones,Apple,Tech Import SARL,10326.47,Japon,2026-04-24,9999-12-31,True
+6,P006,Xiaomi Redmi Note 13,Electronique,Smartphones,Lenovo,Apple MENA,1155.92,Maroc,2026-04-24,9999-12-31,True
+7,P007,MacBook Air M3,Electronique,Laptops,HP,Tech Import SARL,12186.3,Japon,2026-04-24,9999-12-31,True
+8,P008,Lenovo ThinkPad X1,Electronique,Laptops,Xiaomi,Samsung Maroc,3354.63,Chine,2026-04-24,9999-12-31,True
+9,P009,HP Pavilion 15,Electronique,Laptops,Lenovo,Apple MENA,15353.36,USA,2026-04-24,9999-12-31,False
+10,P010,MacBook Pro 14 M3,Electronique,Laptops,JBL,Tech Import SARL,2970.7,Corée du Sud,2026-04-24,9999-12-31,True
+11,P011,Lenovo IdeaPad 3,Electronique,Laptops,JBL,Xiaomi Distribution,4400.3,Maroc,2026-04-24,9999-12-31,True
+12,P012,iPad Air M2,Electronique,Tablettes,Xiaomi,Tech Import SARL,11451.85,Corée du Sud,2026-04-24,9999-12-31,True
+13,P013,Samsung Galaxy Tab S9,Electronique,Tablettes,Samsung,Xiaomi Distribution,14671.8,Japon,2026-04-24,9999-12-31,True
+14,P014,Xiaomi Pad 6,Electronique,Tablettes,Xiaomi,Apple MENA,16577.7,Chine,2026-04-24,9999-12-31,True
+15,P015,AirPods Pro 2,Electronique,Accessoires,Apple,Xiaomi Distribution,9435.93,USA,2026-04-24,9999-12-31,True
+16,P016,Chargeur USB-C 65W,Electronique,Accessoires,Samsung,Tech Import SARL,15558.63,France,2026-04-24,9999-12-31,True
+17,P017,Coque iPhone 16,Electronique,Accessoires,HP,Tech Import SARL,18332.59,France,2026-04-24,9999-12-31,True
+18,P018,Câble HDMI 2m,Electronique,Accessoires,Huawei,Tech Import SARL,2561.78,Corée du Sud,2026-04-24,9999-12-31,True
+19,P019,Souris Logitech MX,Electronique,Accessoires,Apple,Apple MENA,13535.63,Corée du Sud,2026-04-24,9999-12-31,False
+20,P020,JBL Flip 6,Electronique,Audio,HP,Tech Import SARL,4305.23,USA,2026-04-24,9999-12-31,True
+21,P021,Sony WH-1000XM5,Electronique,Audio,JBL,Samsung Maroc,2062.89,Japon,2026-04-24,9999-12-31,True
+22,P022,AirPods Max,Electronique,Audio,Samsung,Apple MENA,7828.02,Corée du Sud,2026-04-24,9999-12-31,True
+23,P023,JBL Charge 5,Electronique,Audio,Xiaomi,Tech Import SARL,3730.23,Corée du Sud,2026-04-24,9999-12-31,True
+24,P024,Polo Lacoste Classic,Mode,Vêtements Homme,Zara,Mode Express,2996.88,France,2026-04-24,9999-12-31,True
+25,P025,T-shirt Nike Dri-FIT,Mode,Vêtements Homme,H&M,TextilePlus Tanger,2711.21,France,2026-04-24,9999-12-31,False
+26,P026,Jean Slim Zara,Mode,Vêtements Homme,Adidas,Mode Express,2873.09,Chine,2026-04-24,9999-12-31,True
+27,P027,Veste Adidas Originals,Mode,Vêtements Homme,Zara,Mode Express,2219.42,Corée du Sud,2026-04-24,9999-12-31,True
+28,P028,Robe H&M Summer,Mode,Vêtements Femme,Zara,Mode Express,285.33,Corée du Sud,2026-04-24,9999-12-31,True
+29,P029,Blazer Zara Femme,Mode,Vêtements Femme,Lacoste,Mode Express,166.24,Chine,2026-04-24,9999-12-31,True
+30,P030,Jupe Nike Sportswear,Mode,Vêtements Femme,Casio,Mode Express,975.84,Maroc,2026-04-24,9999-12-31,True
+31,P031,Pull Lacoste V-neck,Mode,Vêtements Femme,Adidas,Mode Express,2994.44,USA,2026-04-24,9999-12-31,False
+32,P032,Nike Air Max 90,Mode,Chaussures,Zara,Fashion Import MA,1139.1,Japon,2026-04-24,9999-12-31,True
+33,P033,Adidas Stan Smith,Mode,Chaussures,Casio,Mode Express,932.17,Maroc,2026-04-24,9999-12-31,True
+34,P034,Nike Air Force 1,Mode,Chaussures,Nike,TextilePlus Tanger,1833.25,Chine,2026-04-24,9999-12-31,True
+35,P035,Adidas Ultraboost,Mode,Chaussures,Zara,Mode Express,1298.55,USA,2026-04-24,9999-12-31,False
+36,P036,Ceinture Lacoste Cuir,Mode,Accessoires Mode,Lacoste,Mode Express,1218.8249999999998,Chine,2026-04-24,9999-12-31,False
+37,P037,Sac Zara Bandoulière,Mode,Accessoires Mode,Adidas,Fashion Import MA,172.4,Japon,2026-04-24,9999-12-31,True
+38,P038,Écharpe H&M Laine,Mode,Accessoires Mode,Casio,Fashion Import MA,1092.35,USA,2026-04-24,9999-12-31,True
+39,P039,Casio G-Shock GA-2100,Mode,Montres,Swatch,Fashion Import MA,1218.8249999999998,Japon,2026-04-24,9999-12-31,True
+40,P040,Swatch Originals,Mode,Montres,Nike,Fashion Import MA,2371.75,France,2026-04-24,9999-12-31,True
+41,P041,Casio Vintage A168,Mode,Montres,Nike,Fashion Import MA,706.62,Chine,2026-04-24,9999-12-31,True
+42,P042,Huile Lesieur 5L,Alimentation,Épicerie,Al Badia,BIM Maroc,122.51,USA,2026-04-24,9999-12-31,True
+43,P043,Sucre Enmer 2kg,Alimentation,Épicerie,Dari,Marjane Distribution,180.39,Maroc,2026-04-24,9999-12-31,True
+44,P044,Farine Dari 10kg,Alimentation,Épicerie,Knorr,Marjane Distribution,79.89,Japon,2026-04-24,9999-12-31,False
+45,P045,Riz Basmati 5kg,Alimentation,Épicerie,Centrale Danone,Aswak Assalam,25.57,Maroc,2026-04-24,9999-12-31,True
+46,P046,Pack Eau Sidi Ali 6x1.5L,Alimentation,Boissons,Knorr,Aswak Assalam,201.07,France,2026-04-24,9999-12-31,True
+47,P047,Jus Valencia Orange 1L,Alimentation,Boissons,Al Badia,BIM Maroc,270.42,Chine,2026-04-24,9999-12-31,True
+48,P048,Café Dubois 250g,Alimentation,Boissons,Nestlé,BIM Maroc,183.36,Japon,2026-04-24,9999-12-31,True
+49,P049,Sardines Raïbi 10x125g,Alimentation,Conserves,Al Badia,Marjane Distribution,88.43,Chine,2026-04-24,9999-12-31,True
+50,P050,Tomate Concentrée Aicha,Alimentation,Conserves,Lesieur,Marjane Distribution,12.18,Japon,2026-04-24,9999-12-31,True
+51,P051,Olives Cartier 400g,Alimentation,Conserves,Al Badia,BIM Maroc,117.89,France,2026-04-24,9999-12-31,True
+52,P052,Biscuits Bimo Tagger,Alimentation,Snacks,Lesieur,BIM Maroc,157.28,France,2026-04-24,9999-12-31,True
+53,P053,Chips Lay's Nature 150g,Alimentation,Snacks,Nestlé,BIM Maroc,244.61,Japon,2026-04-24,9999-12-31,True
+54,P054,Chocolat Nestlé 100g,Alimentation,Snacks,Nestlé,Aswak Assalam,226.02,USA,2026-04-24,9999-12-31,True
+55,P055,Miel Atlas Bio 500g,Alimentation,Bio,Nestlé,Marjane Distribution,214.78,USA,2026-04-24,9999-12-31,True
+56,P056,Huile Argan Bio 250ml,Alimentation,Bio,Nestlé,BIM Maroc,49.92,France,2026-04-24,9999-12-31,True
+57,P057,Thé Vert Bio Marrakech,Alimentation,Bio,Lesieur,Aswak Assalam,119.51,France,2026-04-24,9999-12-31,True

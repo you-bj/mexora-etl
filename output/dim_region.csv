@@ -1,0 +1,31 @@
+id_region,ville,province,region_admin,zone_geo,pays
+1,Tanger,Tanger-Assilah,Tanger-Tétouan-Al Hoceïma,Nord,Maroc
+2,Tétouan,Tétouan,Tanger-Tétouan-Al Hoceïma,Nord,Maroc
+3,Al Hoceïma,Al Hoceïma,Tanger-Tétouan-Al Hoceïma,Nord,Maroc
+4,Casablanca,Casablanca,Casablanca-Settat,Centre,Maroc
+5,Mohammedia,Mohammedia,Casablanca-Settat,Centre,Maroc
+6,Settat,Settat,Casablanca-Settat,Centre,Maroc
+7,Rabat,Rabat,Rabat-Salé-Kénitra,Centre,Maroc
+8,Salé,Salé,Rabat-Salé-Kénitra,Centre,Maroc
+9,Kénitra,Kénitra,Rabat-Salé-Kénitra,Centre,Maroc
+10,Fès,Fès,Fès-Meknès,Centre,Maroc
+11,Meknès,Meknès,Fès-Meknès,Centre,Maroc
+12,Marrakech,Marrakech,Marrakech-Safi,Sud,Maroc
+13,Safi,Safi,Marrakech-Safi,Sud,Maroc
+14,Agadir,Agadir-Ida Ou Tanane,Souss-Massa,Sud,Maroc
+15,Oujda,Oujda-Angad,L'Oriental,Est,Maroc
+16,Nador,Nador,L'Oriental,Est,Maroc
+17,Béni Mellal,Béni Mellal,Béni Mellal-Khénifra,Centre,Maroc
+18,Errachidia,Errachidia,Drâa-Tafilalet,Sud,Maroc
+19,Laâyoune,Laâyoune,Laâyoune-Sakia El Hamra,Sud,Maroc
+20,Dakhla,Oued Ed-Dahab,Dakhla-Oued Ed-Dahab,Sud,Maroc
+21,Taza,Taza,Fès-Meknès,Centre,Maroc
+22,Khémisset,Khémisset,Rabat-Salé-Kénitra,Centre,Maroc
+23,El Jadida,El Jadida,Casablanca-Settat,Centre,Maroc
+24,Guelmim,Guelmim,Guelmim-Oued Noun,Sud,Maroc
+25,Ouarzazate,Ouarzazate,Drâa-Tafilalet,Sud,Maroc
+26,Tan-Tan,Tan-Tan,Guelmim-Oued Noun,Sud,Maroc
+27,Khouribga,Khouribga,Béni Mellal-Khénifra,Centre,Maroc
+28,Larache,Larache,Tanger-Tétouan-Al Hoceïma,Nord,Maroc
+29,Chefchaouen,Chefchaouen,Tanger-Tétouan-Al Hoceïma,Nord,Maroc
+30,Ifrane,Ifrane,Fès-Meknès,Centre,Maroc
